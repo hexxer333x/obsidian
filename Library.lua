@@ -2183,7 +2183,7 @@ do
         --// Sat Map
         local SatVipMap = New("ImageButton", {
             BackgroundColor3 = ColorPicker.Value,
-            Image = "",
+            Image = "rbxassetid://4155801252",
             Size = UDim2.fromOffset(200, 200),
             Parent = ColorHolder,
         })
